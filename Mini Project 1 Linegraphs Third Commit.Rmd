@@ -26,7 +26,7 @@ library(sds192)
 ```
 
 ##Diamonds are a Girl's (Costly) Friend
-As we can see from the first 10 rows of the data, diamond value is characterized by the 4c's: carat, cut, color and clarity. Each variable evaluates diamonds from a distinct dimension. From Hollywood tabloid headlines, we seem to think that the bigger the diamond, the more bankroll an actor makes, and perhaps, a happier marriage. However, is that the case? We investigate into other variables that determine a diamond's value, and what it means to have a flawless diamond. 
+As we can see from the first 10 rows of the data, diamond value is characterized by the 4c's: carat, cut, color and clarity. Each variable evaluates diamonds from a distinct dimension. From Hollywood tabloid headlines, we seem to think that the bigger the diamond, the more bankroll an actor makes, and perhaps, a happier marriage. However, is that the case? Apart from weight (carat), we investigate into 2 other variables that determine a diamond's value, and what it means to have a flawless diamond. 
 
 ```{r}
 diamonds
